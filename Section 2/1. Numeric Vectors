@@ -1,0 +1,7 @@
+# Here is an example creating a numeric vector named cost
+cost <- c(50, 75, 90, 100, 150)
+
+# Create a numeric vector to store the temperatures listed in the instructions into a vector named temp
+# Make sure to follow the same order in the instructions
+temp <-c("Beijing"=35, "Lagos"=88, "Paris"=42, "Rio de Janerio"=84, "San Juan"=81, "Toronto"=30)
+temp
